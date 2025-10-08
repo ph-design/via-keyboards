@@ -1,7 +1,7 @@
 {
   "name": "ph.design PH60slim_choc",
   "vendorId": "0x5048",
-  "productId": "0x0003",
+  "productId": "0x0004",
   "matrix": {
     "rows": 5,
     "cols": 14
